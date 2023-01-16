@@ -1,6 +1,6 @@
 ![huddle01-overview](https://user-images.githubusercontent.com/45092543/212680793-31ab7c31-ca3a-4c99-9c85-4539afc85a23.png)
 
-### Audio/Video Infrastructure designed for the developers to empower them ship simple yet powerful Audio/Video Apps.
+### AV Infrastructure designed for the developers to empower them ship simple yet powerful Audio/Video Apps.
 
 
 # https://huddle01.com/docs
